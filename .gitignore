@@ -52,3 +52,11 @@ error.log
 
 # openspec
 openspec/changes/
+
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
